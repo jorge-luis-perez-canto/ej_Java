@@ -9,5 +9,5 @@
 | Link  | Descripción |
 | ------------- | ------------- |
 | [Ejercicio 1](./Ejemplo1.java) | Calcular el IGSS, IRTRA y sueldo líquido. |
-| [Ejercicio 2](./Validacion_fecha_dia_mes_anio.psc) | A partir de 10 números ingresados, calcular el promedio de los números positivos y el de los negativos.|
+| [Ejercicio 2](./Validacion_fecha_dia_mes_anio.psc) |Calcular el promedio de los números positivos y negativos ingresados.|
 | [Ejercicio 3](./Ejercicio3.java) | Mostrar la fecha siguiente a la ingresada |
